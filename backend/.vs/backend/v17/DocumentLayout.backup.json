@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|c:\\users\\siva\\desktop\\grocery store\\backend\\backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|c:\\users\\siva\\desktop\\grocery store\\backend\\backend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|solutionrelative:backend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|c:\\users\\siva\\desktop\\grocery store\\backend\\backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|solutionrelative:backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|c:\\users\\siva\\desktop\\grocery store\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|c:\\users\\siva\\desktop\\grocery store\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|c:\\users\\siva\\desktop\\grocery store\\backend\\backend\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|solutionrelative:backend\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|c:\\users\\siva\\desktop\\grocery store\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36CB95FE-E018-40BC-B2BC-50D70885FA47}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:44:51.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\Services\\ProductService.cs",
+              "RelativeToolTip": "backend\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:42:39.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "backend",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T15:42:08.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\Models\\Product.cs",
+              "RelativeToolTip": "backend\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:39:19.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T15:48:43.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:52:45.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\Models\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Grocery store\\backend\\backend\\Models\\DatabaseSettings.cs",
+              "RelativeToolTip": "backend\\Models\\DatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:47:31.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
